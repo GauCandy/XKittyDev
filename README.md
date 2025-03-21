@@ -17,11 +17,11 @@ async def execute(message: disnake.Message, bot: disnake.Client, data: dict):
 print(data)
 ```
 # nó sẽ trả về một danh sách như sau
-{'Terms': True, 'Lang': 'vi', 'prefix': ['>', '?'], 'request': None}
+```{'Terms': True, 'Lang': 'vi', 'prefix': ['>', '?'], 'request': None}```
 
 # muốn lấy các dữ liệu trong danh sách thì dùng # 
 
-data.get["tên dữ liệu muốn lấy"]
+```data.get["tên dữ liệu muốn lấy"]```
 # ví dụ
 ```python
 du_lieu = data.get["Terms"]
