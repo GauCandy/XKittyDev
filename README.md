@@ -29,5 +29,5 @@ print("du_lieu")
 ```
 # khi print du_lieu nó sẽ trả về True vì trong danh sách data đang để là true
 # có thể thay đổi dữ liệu in ra bằng cách vào
-[bot.py](https://github.com/GauCandy/XKittyDev/blob/main/ima2ge.png)
+![bot.py](https://github.com/GauCandy/XKittyDev/blob/main/ima2ge.png)
 # sửa lại data ở đó thì du_lieu print ra sẽ khác
